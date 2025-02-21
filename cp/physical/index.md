@@ -6,7 +6,7 @@ Physics provides the foundational principles that explain the behavior of matter
 
 ## Force, Energy, and Motion
 ### Translational Motion
-[Vectors and Scalars](/cp/physical/force_energy_motion/vectors_and_scalars.md)
+[Vectors and Scalars](cp/physical/force_energy_motion/vectors_and_scalars.md)
 ### Force
 ### Equilibrium
 ### Work
