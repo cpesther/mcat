@@ -16,4 +16,4 @@ FC 6 — Perception\
 FC 7 — Behavior\
 FC 8 — Individuals and Society\
 FC 9 — Culture and Society\
-[FC 10 — Inequality in Society](ps/10inequality/index.md)
+[FC 10 — Inequality in Society](ps/inequality/index.md)
