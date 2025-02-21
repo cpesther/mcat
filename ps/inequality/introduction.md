@@ -5,4 +5,6 @@ A prime example social inequality is the wealth gap in the United States. As rep
 
 Social inequality is itself is not applied equally across all populations, as racial and ethnic minorities are frequently disproportionally represented in lower social classes. Additionally, gender can also play a role in a persons social disadvantage. Some data suggest that being female comes with disadvantages such as the gender wage gap (wherein females are paid, on average, less than males) or the **glass ceiling**, which describes an invisible barrier preventing females or members of certain racial or ethnic groups from rising beyond a certain level in a hierarchy, most often in the context of job promotions and corporate structure. 
 
-![Sonicyouth86, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/58/US_Gender_Pay_Gap_by_industry_.001.png)
+|![](https://upload.wikimedia.org/wikipedia/commons/5/58/US_Gender_Pay_Gap_by_industry_.001.png)|
+|:--:|
+|US Gender Pay Gap by Industry, Sonicyouth86, CC BY-SA 3.0, via Wikimedia Commons|
