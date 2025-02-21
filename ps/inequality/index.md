@@ -1,4 +1,4 @@
-### Foundational Concept 10
+Foundational Concept 10
 # Inequality in Society
 ![Cover image](assets/cover_inequality.jpg)
 

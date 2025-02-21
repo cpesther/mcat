@@ -1,4 +1,4 @@
-### Foundational Concept 6
+Foundational Concept 6
 # Perception
 ![Cover image](assets/cover_perception.jpg)
 

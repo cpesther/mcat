@@ -1,4 +1,4 @@
-### Foundational Concept 9
+Foundational Concept 9
 # Culture and Society
 ![Cover image](assets/cover_culture.jpg)
 

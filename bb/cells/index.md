@@ -1,4 +1,4 @@
-### Foundational Concept 2
+Foundational Concept 2
 # Cells
 ![Cover image](assets/cover_cells.jpg)
 

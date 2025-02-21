@@ -1,4 +1,4 @@
-### Foundational Concept 8
+Foundational Concept 8
 # Individuals and Society
 ![Cover image](assets/cover_individuals.jpg)
 

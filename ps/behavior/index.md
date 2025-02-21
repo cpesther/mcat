@@ -1,4 +1,4 @@
-### Foundational Concept 7
+Foundational Concept 7
 # Behavior
 ![Cover image](assets/cover_behavior.jpg)
 

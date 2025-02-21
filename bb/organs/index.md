@@ -1,4 +1,4 @@
-### Foundational Concept 3
+Foundational Concept 3
 # Organ Systems
 ![Cover image](assets/cover_organs.jpg)
 

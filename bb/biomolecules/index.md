@@ -1,4 +1,4 @@
-### Foundational Concept 1
+Foundational Concept 1
 # Biomolecules
 ![Cover image](assets/cover_biomolecules.jpg)
 
