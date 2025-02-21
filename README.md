@@ -1,2 +1,2 @@
-# Welcom to the MCAT Study Textbooks
-A full database of study resources and textbooks for the AAMC's Medical College Admissions Test (MCAT).
+# Welcome to the MCAT Study Textbooks
+A complete set of free review textbooks and study resources for the AAMC's Medical College Admissions Test (MCAT).
