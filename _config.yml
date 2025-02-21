@@ -26,9 +26,8 @@ baseurl: "/mcat" # Your repo name
 url: "https://cpesther.github.io"
 
 # Build settings
-remote_theme: jekyll/minimal
+theme: jekyll-theme-minimal
 
-# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
