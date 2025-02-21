@@ -3,9 +3,9 @@ A complete set of free review textbooks and study resources for the AAMC's Medic
 
 ## Browse by Section
 ### Biological and Biochemical Foundations of Living Systems
-FC 1 — Biomolecules\
-FC 2 — Cells\
-FC 3 — Organ Systems
+[FC 1 — Biomolecules](/bb/biomolecules/index.md)\
+[FC 2 — Cells](/bb/cells/index.md)\
+[FC 3 — Organ Systems](/bb/organs/index.md)
 
 ### Chemical and Physical Foundations of Biological Systems
 [FC 4 — Chemical Processes](/cp/chemical/index.md)\
