@@ -1,3 +1,7 @@
+---
+layout: default
+title: "My Page Title"
+---
 Foundational Concept 4
 # Physical Processes
 ![Cover image](assets/cover_physical.jpg)
