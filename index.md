@@ -8,8 +8,8 @@ A complete set of free review textbooks and study resources for the AAMC's Medic
 [FC 3 — Organ Systems](/bb/organs/index.md)
 
 ### Chemical and Physical Foundations of Biological Systems
-[FC 4 — Chemical Processes](/cp/chemical/index.md)\
-[FC 5 — Physical Processes](/cp/physical/index.md)
+[FC 4 — Physical Processes](/cp/physical/index.md)\
+[FC 5 — Chemical Processes](/cp/chemical/index.md)
 
 ### Psychological, Social, and Biological Foundations of Behavior
 [FC 6 — Perception](/ps/perception/index.md)\
