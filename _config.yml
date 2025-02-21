@@ -1,0 +1,9 @@
+# Site settings
+title: MCAT Review
+author:
+  name: Christopher Esther
+  email: none
+description: "Free review textbooks for the AAMC's MCAT"
+
+# Build settings
+remote_theme: jekyll/minima
