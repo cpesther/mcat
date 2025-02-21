@@ -6,4 +6,4 @@ author:
 description: "Free review textbooks for the AAMC's MCAT"
 
 # Build settings
-remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
