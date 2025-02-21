@@ -8,12 +8,12 @@ FC 2 — Cells\
 FC 3 — Organ Systems
 
 ### Chemical and Physical Foundations of Biological Systems
-FC 4 — Chemical Processes\
-FC 5 — Physical Processes
+[FC 4 — Chemical Processes](/cp/chemical/index.md)\
+[FC 5 — Physical Processes](/cp/physical/index.md)
 
-### [Psychological, Social, and Biological Foundations of Behavior](ps/index.md)
-FC 6 — Perception\
-FC 7 — Behavior\
-FC 8 — Individuals and Society\
-FC 9 — Culture and Society\
-[FC 10 — Inequality in Society](ps/inequality/index.md)
+### Psychological, Social, and Biological Foundations of Behavior
+[FC 6 — Perception](/ps/perception/index.md)\
+[FC 7 — Behavior](/ps/behavior/index.md)\
+[FC 8 — Individuals and Society](/ps/individuals/index.md)\
+[FC 9 — Culture and Society](/ps/culture/index.md)\
+[FC 10 — Inequality in Society](/ps/inequality/index.md)
