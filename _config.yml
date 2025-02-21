@@ -33,21 +33,3 @@ plugins:
 # Markdown settings
 markdown: GFM
 
-# Sass settings
-sass:
-  add_charset: true
-  sass_dir: assets/sass
-  style: :compressed
-
-# Build settings
-exclude:
-  - package.json
-  - README.md
-  - CNAME
-  - assets/sass
-
-# Plugin settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
