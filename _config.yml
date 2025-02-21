@@ -22,8 +22,8 @@ title: MCAT Study Textbooks
 email: none
 description: >- # this means to ignore newlines until "baseurl:"
   A series of free MCAT review textbooks. 
-baseurl: "/mcat" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mcat" # Your repo name
+url: "https://cpesther.github.io"
 
 # Build settings
 theme: jekyll-theme-minimal
